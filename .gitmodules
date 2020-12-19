@@ -1,0 +1,15 @@
+[submodule "1-semester/bmstu_python"]
+	path = 1-semester/bmstu_python
+	url = https://github.com/Winterpuma/bmstu_python
+[submodule "2-semester/bmstu_python"]
+	path = 2-semester/bmstu_python
+	url = https://github.com/Winterpuma/bmstu_python
+[submodule "2-semester/bmstu_C"]
+	path = 2-semester/bmstu_C
+	url = https://github.com/Winterpuma/bmstu_C
+[submodule "3-semester/bmstu_C"]
+	path = 3-semester/bmstu_C
+	url = https://github.com/Winterpuma/bmstu_C
+[submodule "3-semester/bmstu_TaDS"]
+	path = 3-semester/bmstu_TaDS
+	url = https://github.com/Winterpuma/bmstu_TaDS
