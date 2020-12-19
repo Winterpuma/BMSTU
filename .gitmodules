@@ -13,3 +13,48 @@
 [submodule "3-semester/bmstu_TaDS"]
 	path = 3-semester/bmstu_TaDS
 	url = https://github.com/Winterpuma/bmstu_TaDS
+[submodule "4-semester/bmstu_CG"]
+	path = 4-semester/bmstu_CG
+	url = https://github.com/Winterpuma/bmstu_CG
+[submodule "4-semester/bmstu_OOP"]
+	path = 4-semester/bmstu_OOP
+	url = https://github.com/Winterpuma/bmstu_OOP
+[submodule "4-semester/bmstu_MDPL"]
+	path = 4-semester/bmstu_MDPL
+	url = https://github.com/Winterpuma/bmstu_MDPL
+[submodule "4-semester/bmstu_computational-algorithms"]
+	path = 4-semester/bmstu_computational-algorithms
+	url = https://github.com/Winterpuma/bmstu_computational-algorithms
+[submodule "5-semester/bmstu_AA"]
+	path = 5-semester/bmstu_AA
+	url = https://github.com/Winterpuma/bmstu_AA
+[submodule "5-semester/bmstu_OS"]
+	path = 5-semester/bmstu_OS
+	url = https://github.com/Winterpuma/bmstu_OS
+[submodule "5-semester/bmstu_DB"]
+	path = 5-semester/bmstu_DB
+	url = https://github.com/Winterpuma/bmstu_DB
+[submodule "6-semester/bmstu_OS"]
+	path = 6-semester/bmstu_OS
+	url = https://github.com/Winterpuma/bmstu_OS
+[submodule "6-semester/bmstu_FaLP"]
+	path = 6-semester/bmstu_FaLP
+	url = https://github.com/Winterpuma/bmstu_FaLP
+[submodule "6-semester/bmstu_MG"]
+	path = 6-semester/bmstu_MG
+	url = https://github.com/Winterpuma/bmstu_MG
+[submodule "7-semester/bmstu_security"]
+	path = 7-semester/bmstu_security
+	url = https://github.com/Winterpuma/bmstu_security
+[submodule "7-semester/bmstu_computer-networks"]
+	path = 7-semester/bmstu_computer-networks
+	url = https://github.com/Winterpuma/bmstu_computer-networks
+[submodule "7-semester/bmstu_web"]
+	path = 7-semester/bmstu_web
+	url = https://github.com/Winterpuma/bmstu_web
+[submodule "7-semester/bmstu_MR"]
+	path = 7-semester/bmstu_MR
+	url = https://github.com/Winterpuma/bmstu_MR
+[submodule "7-semester/bmstu_testing"]
+	path = 7-semester/bmstu_testing
+	url = https://github.com/Winterpuma/bmstu_testing
