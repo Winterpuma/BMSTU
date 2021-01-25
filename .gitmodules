@@ -43,6 +43,7 @@
 [submodule "6-semester/bmstu_MG"]
 	path = 6-semester/bmstu_MG
 	url = https://github.com/Winterpuma/bmstu_MG
+	branch = master
 [submodule "7-semester/bmstu_security"]
 	path = 7-semester/bmstu_security
 	url = https://github.com/Winterpuma/bmstu_security
