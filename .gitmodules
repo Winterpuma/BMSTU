@@ -58,6 +58,7 @@
 [submodule "7-semester/bmstu_testing"]
 	path = 7-semester/bmstu_testing
 	url = https://github.com/Winterpuma/bmstu_testing
+	branch = main
 [submodule "course-projects/bmstu_CG_CP"]
 	path = course-projects/bmstu_CG_CP
 	url = https://github.com/Winterpuma/bmstu_CG_CP
