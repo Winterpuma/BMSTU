@@ -1,0 +1,1 @@
+[ДЗ2 калькулятор](https://programforyou.ru/calculators/postroenie-tablitci-istinnosti-sknf-sdnf)
