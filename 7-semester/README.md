@@ -24,7 +24,7 @@
 
 ### Курсовая Работа по ОС
 Научный руководитель: Рязанова Н.Ю.    
-Репозиторий: [bmstu_OS_CP](https://github.com/Winterpuma/bmstu_CG_CP/tree/master)
+Репозиторий: [bmstu_OS_CP](https://github.com/Winterpuma/bmstu_OS_CP/tree/master)
 
 ### Курсовая Работа по КС
 Научный руководитель: Строганов Ю.В.    
