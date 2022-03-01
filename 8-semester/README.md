@@ -23,4 +23,6 @@
 
 ### Диплом
 Научный руководитель: Строганов Ю.В.  
-Репозиторий: [nets](https://github.com/Winterpuma/nets/tree/master)  
+Исходники: [nets](https://github.com/Winterpuma/nets/tree/master)  
+Бумажная волокита: [bmstu_bachelors-diploma](https://github.com/Winterpuma/bmstu_bachelors-diploma)
+
